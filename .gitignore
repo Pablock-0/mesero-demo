@@ -48,3 +48,6 @@ app.*.map.json
 android/key.properties
 *.jks
 *.keystore
+
+# APK que se sube como asset del release (ver README > Publicar una versión).
+/mesero.apk
